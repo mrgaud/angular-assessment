@@ -1,6 +1,8 @@
 #logo{
     position: absolute;
     right: 1em;
+    height:3em;
+
 }
 .hide{
     display: none;
